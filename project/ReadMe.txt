@@ -1,0 +1,20 @@
+文件说明：
+	CryptoWork文件夹：密码学大作业源代码
+	CryptoWork.exe：密码学大作业可执行文件
+	CryptoWork.jar：密码学可执行jar包
+
+模块分析：
+	算法模块：
+		AES.java：AES实现细节
+		DES.jave：DES实现细节
+		MD5.java：MD5实现
+		RSA.java：RSA实现
+		SHA.java：散列函数实现
+		UseAES.java：AES实现
+		UseDES.java：DES实现
+	UI模块：
+		decPage.java：解密调用
+		enc_or_de.java：主界面，选择加解密或是生成密钥
+		encPage.java：加密调用
+		font.java：设置字体样式
+		Main.java：主函数
